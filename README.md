@@ -15,3 +15,5 @@ Associate Professor and former Chair of Sculpture at the Kansas City Art Institu
 Recognized as an accomplished Python developer, Wickerson's creative research incorporates mathematics, computer science, computational and parametric design, digital modeling, and programming as they relate to data visualization, machine learning, and robotics.
 
 Metal Casting Foundry, Rhino 3D Digital Modeling, Grasshopper Node Programming, Python Script Development, Creative Coding for Augmented Reality, Interests in Creative Robotics and Machine Learning
+
+![headshot](Capture2.JPG)
