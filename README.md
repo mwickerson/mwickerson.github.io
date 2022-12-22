@@ -1,5 +1,7 @@
 # Michael Wickerson
 
+![headshot](Capture4.JPG)
+
 CEO and Co-founder at Wickerson Studios and former Chair of Sculpture at Kansas City Art Institute
 foundry man,
 parametric modeler,
